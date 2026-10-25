@@ -19,3 +19,5 @@ Pass the `CloudflareBindings` as generics when instantiating `Hono`:
 // src/index.ts
 const app = new Hono<{ Bindings: CloudflareBindings }>()
 ```
+
+Dies ist meine zweite Änderung für das Git-Exercise.
